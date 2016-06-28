@@ -7,3 +7,6 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
+.idea/
+testsonarqube.iml
+testsonarqube.iml___jb_tmp___
